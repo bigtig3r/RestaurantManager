@@ -1,0 +1,54 @@
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmBan.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmDoiBan.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmExport.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmFind.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmGoiMon.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmHoaDon.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmIncome.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmMerge.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmShow.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmTable.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmThongKe.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmThucDon.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmType.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\RRM.Properties.Resources.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\RRM.csproj.GenerateResource.Cache
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmMain.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.FrmIn.resources
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\RRM.exe
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\RRM.pdb
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\BusinessLayer.dll
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\DataLayer.dll
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\DataLayer.pdb
+D:\WorkStation\New Function\Ganesh\RRM\RRM\bin\Debug\BusinessLayer.pdb
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\RRM.exe
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\RRM.pdb
+D:\WorkStation\New Function\Ganesh\RRM\RRM\obj\Debug\QLCF.frmLogin.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\RRM.exe
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\RRM.pdb
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\RRM.exe
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\RRM.pdb
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\BusinessLayer.dll
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\DataLayer.dll
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\DataLayer.pdb
+E:\Other\RRM_Ganges\RRM\RRM\bin\Debug\BusinessLayer.pdb
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\ResolveAssemblyReference.cache
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmBan.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmDoiBan.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmExport.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmFind.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmGoiMon.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmHoaDon.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.FrmIn.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmIncome.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmLogin.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmMain.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmMerge.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmShow.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmTable.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmThongKe.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmThucDon.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.frmType.resources
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\RRM.csproj.GenerateResource.Cache
+E:\Other\RRM_Ganges\RRM\RRM\obj\Debug\QLCF.Properties.Resources.resources

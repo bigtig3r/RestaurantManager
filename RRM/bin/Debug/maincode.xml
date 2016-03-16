@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <Con>Data Source=HENRYLAW\SQLEXPRESS;Initial Catalog=RestaurantDB;User ID=sa;Password=123456</Con>
+    <ToEmail>trandat.nguyentd@gmail.com</ToEmail>
+    <YourEmail>bluesky2200@gmail.com</YourEmail>
+    <Password>c0nkhikh0</Password>
+    <Database />
+    <Email>trandat.nguyentd@gmail.com</Email>
+    <Ip />
+    <Post />
+  </Row>
+</Import>

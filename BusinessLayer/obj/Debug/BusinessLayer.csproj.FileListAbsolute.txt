@@ -1,0 +1,7 @@
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\bin\Debug\DataLayer.dll
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\WorkStation\New Function\Ganesh\RRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
